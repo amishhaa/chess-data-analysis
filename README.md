@@ -7,8 +7,7 @@ It's time to analyse all of them!
 This repository contains different resources (e.g., Java code) to analyse chess games. *Current status*:
  * We are writing a technical report on various statistics of the chessgame database (e.g., number of unique positions);
  * We are using [Igrida Cluster](http://igrida.gforge.inria.fr/) for large computations with Stockfish UCI Engine
- 
-**Do not hesitate to participate or contact us!**
+
 
 #### Objectives
 
